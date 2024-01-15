@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lemonaldev
+- 🌱 I’m currently learning C#/C++
+- 💞️ I’m a Unity Developer.
+- ⚡ Fun fact: I’m 15
+- 🌌 Download Primate Underground!!
